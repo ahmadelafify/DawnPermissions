@@ -1,0 +1,12 @@
+name: Dawn
+version: 1.0
+api-version: 1.16
+main: me.ae.dawn.Main
+authors: [ae]
+description: Permissions system.
+
+commands:
+  perms:
+    description: Modify/view rank permissions.
+  ranks:
+    description: Execute rank actions.
