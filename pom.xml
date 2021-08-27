@@ -24,7 +24,7 @@
                 <artifactId>maven-jar-plugin</artifactId>
                 <version>2.4</version>
                 <configuration>
-                    <outputDirectory>C:\Users\PC\Documents\MEGA\MEGAsync\PROJECTS\JAVA\Spigot\_servers\1.16\plugins</outputDirectory>
+                    <outputDirectory>A:\Github\Repositories\ahmadelafify\DawnPermissions\maven-gen</outputDirectory>
                     <archive>
                         <manifestFile>src/main/resources/META-INF/MANIFEST.MF</manifestFile>
                     </archive>
@@ -48,7 +48,7 @@
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
-            <version>1.16.2-R0.1-SNAPSHOT</version>
+            <version>1.17.1-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
         <!--Gson -->

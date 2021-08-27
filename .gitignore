@@ -1,13 +1,12 @@
 .idea/*
 target/*
+maven-gen/*
 
 # Compiled class file
 *.class
 
 # Log file
 *.log
-
-# BlueJ files
 *.ctxt
 
 # Mobile Tools for Java (J2ME)
